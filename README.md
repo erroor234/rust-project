@@ -1,0 +1,1 @@
+This is my rust repo. Maybe there will be some kind of application
